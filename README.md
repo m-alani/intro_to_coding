@@ -16,6 +16,5 @@ Attendees are encouraged to use [JSBin](https://jsbin.com/?js) to code along.
 
 -----
 
-Marwan Alani - 2019
+Marwan Alani - 2019  
 [LinkedIn](https://www.linkedin.com/in/marwanalani/) | [Twitter](https://twitter.com/marwanalany) | [marwan@alani.ca](mailto:marwan@alani.ca)
-
